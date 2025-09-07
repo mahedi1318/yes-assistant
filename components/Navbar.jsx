@@ -40,7 +40,7 @@ const Navbar = () => {
                         <button className="w-[40px] h-[40px] border rounded-full text-[18px] flex items-center justify-center cursor-pointer"><IoSearch /></button>                         
                         <button onClick={()=> setBarisopen(true)} className="w-[40px] h-[40px] border rounded-full text-[18px] flex items-center justify-center cursor-pointer"><FaBars /></button>                         
                     </div>
-                    <Link href="https://calendly.com/james-limbrit/60?month=2025-09" target="blank" className="py-3 px-6 bg-black text-white fira text-[15px] font-bold rounded-[5px]">Schedule A Meeting</Link>
+                    <Link href="https://calendly.com/abdullah-dev-sayad/30min" target="blank" className="py-3 px-6 bg-black text-white fira text-[15px] font-bold rounded-[5px]">Schedule A Meeting</Link>
                 </div>
             </div>
         </div>
