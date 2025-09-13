@@ -14,7 +14,7 @@ export default function Footer() {
       <div className="container mx-auto grid md:grid-cols-5 gap-8">
         {/* Logo + Contact */}
         <div className="col-span-1">
-          <Image src="/logo-footer.png" alt="Yes Assistant Logo" width={140} height={60} />
+          <Image src="/footer-logo.webp" alt="Yes Assistant Logo" width={140} height={60} />
 
           <div className="mt-6 text-sm space-y-4">
             <div>
